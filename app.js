@@ -36,5 +36,5 @@ act.addEventListener('click', () => {
 });
 
 dnl.addEventListener('click', () => {
-    download(can.toDataURL(), 'cs', 'image/png');
+    download(can.toDataURL(), 'fixified.png', 'image/png');
 });
